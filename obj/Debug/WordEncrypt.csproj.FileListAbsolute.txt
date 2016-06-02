@@ -1,0 +1,9 @@
+c:\users\konstantin\documents\visual studio 2013\Projects\WordEncrypt\WordEncrypt\bin\Debug\WordEncrypt.exe.config
+c:\users\konstantin\documents\visual studio 2013\Projects\WordEncrypt\WordEncrypt\bin\Debug\WordEncrypt.exe
+c:\users\konstantin\documents\visual studio 2013\Projects\WordEncrypt\WordEncrypt\bin\Debug\WordEncrypt.pdb
+c:\users\konstantin\documents\visual studio 2013\Projects\WordEncrypt\WordEncrypt\obj\Debug\WordEncrypt.csprojResolveAssemblyReference.cache
+c:\users\konstantin\documents\visual studio 2013\Projects\WordEncrypt\WordEncrypt\obj\Debug\WordEncrypt.WordEncrypt.resources
+c:\users\konstantin\documents\visual studio 2013\Projects\WordEncrypt\WordEncrypt\obj\Debug\WordEncrypt.Properties.Resources.resources
+c:\users\konstantin\documents\visual studio 2013\Projects\WordEncrypt\WordEncrypt\obj\Debug\WordEncrypt.csproj.GenerateResource.Cache
+c:\users\konstantin\documents\visual studio 2013\Projects\WordEncrypt\WordEncrypt\obj\Debug\WordEncrypt.exe
+c:\users\konstantin\documents\visual studio 2013\Projects\WordEncrypt\WordEncrypt\obj\Debug\WordEncrypt.pdb
